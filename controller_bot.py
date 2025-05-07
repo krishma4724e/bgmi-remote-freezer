@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler
 import requests
 import os
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("7871381258:AAHQtaiSLQTX6OEw7xdEPQpz27H4hf7_dfU")
 
 def attack(update, context):
     try:
